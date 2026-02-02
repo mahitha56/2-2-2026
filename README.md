@@ -24,9 +24,7 @@ You have numbers from:
 
 0 to n
 But one number is missing.
-
 Example:
-
 nums = [3, 0, 1]
 Range should be:
 
