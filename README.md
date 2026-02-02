@@ -101,3 +101,9 @@ Think:
 
 👉 "Full sum − present sum = missing"
 
+#prb
+class Solution:
+    def missingNumber(self, nums: List[int]) -> int:
+        #return nums*(nums+1)//2-sum(nums)
+        n=len(nums)  
+        return n*(n+1)//2 - sum(nums)
