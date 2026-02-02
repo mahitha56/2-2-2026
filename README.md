@@ -19,7 +19,6 @@ class Solution:
 #
 return n*(n+1)//2 - sum(nums)
 Let’s understand it very clearly step-by-step.
-
 🎯 Problem
 You have numbers from:
 
